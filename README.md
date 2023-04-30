@@ -3,7 +3,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true&theme=github_dark_dimmed"
   media="(prefers-color-scheme: dark)"
 />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true" />
 </picture>
 
 **Some tips and tricks**
