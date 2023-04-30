@@ -1,4 +1,10 @@
-### Hi there 👋
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true&theme=github_dark_dimmed"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true" />
+</picture>
 
 <!--
 **argami/argami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
