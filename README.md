@@ -1,6 +1,6 @@
 ## Some tips and tricks
 
-- [Execute HTTPS proxy To Rails Apps (or any other fw) in 2 Steps](https://gist.github.com/argami/f4ebf6025ea15460e2f7a68bccd12aca)
+- [HTTPS proxy in 2 Steps](https://gist.github.com/argami/f4ebf6025ea15460e2f7a68bccd12aca)
 
 <picture>
 <source
