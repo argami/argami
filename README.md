@@ -1,22 +1,11 @@
+## Some tips and tricks
+
+- [Execute HTTPS proxy To Rails Apps (or any other fw) in 2 Steps](https://gist.github.com/argami/f4ebf6025ea15460e2f7a68bccd12aca)
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true&theme=github_dark_dimmed"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=argami&count_private=true&show_icons=true" />
 </picture>
-
-<!--
-**argami/argami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
